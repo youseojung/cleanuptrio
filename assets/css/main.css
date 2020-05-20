@@ -6695,7 +6695,10 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		position: relative;
 		background-color: transparent;
+<<<<<<< HEAD
         height: 80%;
+=======
+>>>>>>> c6bd17c91c1c684a18abf0ba6a0a142e2e60267d
 	}
 
 		.gallery.style2 input, .gallery.style2 select, .gallery.style2 textarea {
@@ -8601,4 +8604,8 @@ input, select, textarea {
 
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
+<<<<<<< HEAD
 			}
+=======
+			}
+>>>>>>> c6bd17c91c1c684a18abf0ba6a0a142e2e60267d
